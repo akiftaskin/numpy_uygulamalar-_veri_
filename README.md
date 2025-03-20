@@ -1,1 +1,1 @@
-# numpy_uygulamalar-_veri_
+# Acunmedya Akademi 5. Hafta Numpy Uygulamaları Ödevi
