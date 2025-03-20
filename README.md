@@ -1,0 +1,1 @@
+# numpy_uygulamalar-_veri_
